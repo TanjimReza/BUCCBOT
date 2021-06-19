@@ -23,10 +23,8 @@ pip install -r requirements.txt
 BOT_TOKEN = "Njk3ODIxNjk2NzQ0NDg5MDIx.Xo83GQ.rDrAFjgLo082lHb7yr-IV4arAcg"
 ```
 ## Usage
-- Make a PDF 
-  - ```python 
->approve [student_id] 
-```
+- Getting Approved 
+  - >approve [student_id]
 
 
 ## Contributing
