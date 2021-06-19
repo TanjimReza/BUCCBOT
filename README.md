@@ -24,7 +24,9 @@ BOT_TOKEN = "Njk3ODIxNjk2NzQ0NDg5MDIx.Xo83GQ.rDrAFjgLo082lHb7yr-IV4arAcg"
 ```
 ## Usage
 - Make a PDF 
-  - ```python >approve [student_id] ```
+  - ```python 
+>approve [student_id] 
+```
 
 
 ## Contributing
